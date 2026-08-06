@@ -30,3 +30,13 @@
   <li>Windows Server 2022</li>
   <li>Windows 10 </li>
 </ul>
+
+
+<h2>Setup Resources in Azure</h2>
+<ul>
+  <li>Create a Windows Server 2022 virtual machine named DC-1 to serve as the Domain Controller.</li>
+  <li>Record the Resource Group and Virtual Network (VNet) associated with DC-1.</li>
+  <li>Configure DC-1’s network interface card (NIC) to use a static private IP address for consistent network connectivity.</li>
+  <li>Create a Windows 10 virtual machine named Client-1 within the same Resource Group and VNet as DC-1.</li>
+  <li>Confirm that DC-1 and Client-1 are connected to the same VNet using Azure’s Network Watcher Topology tool.</li>
+</ul>
