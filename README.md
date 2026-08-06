@@ -30,7 +30,10 @@
   <li>Windows Server 2022</li>
   <li>Windows 10 </li>
 </ul>
-
+<p>
+<img src="https://i.imgur.com/d22FHIm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 
 <h2>Setup Resources in Azure</h2>
 <ul>
