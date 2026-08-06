@@ -16,3 +16,17 @@
   <li>Use Group Policy to grant Remote Desktop access to non-administrative users in the _CLIENTS and _EMPLOYEES Organizational Units (OUs).</li>
   <li>Use a PowerShell ISE script to create additional user accounts and verify that they can successfully access the domain environment.</li>
 </ol>
+
+<h2>Environments and Technologies </h2>
+<ul>
+  <li>Microsoft Azure (Virtual Machines/Compute)</li>
+  <li>Remote Desktop/Windows App</li>
+  <li>Windows Server 2022 (Domain Controller)</li>
+  <li>Windows 10 (Client)</li>
+</ul>
+
+<h2>Operating Systems</h2>
+<ul>
+  <li>Windows Server 2022</li>
+  <li>Windows 10 </li>
+</ul>
